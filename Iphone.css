@@ -1,0 +1,32 @@
+.buy{
+  color: blue;
+  font-style: italic;
+  margin: 0px;
+  padding-right: 550px;
+}
+.nav, li {
+  list-style-type: none;
+  float: left;
+  margin: 10px 10px;
+  text-align-last: 10px;
+  border-bottom: 10px;
+}
+hr{
+  clear:both;
+}
+.link {
+  margin-left: 20px; 
+}
+.data {
+  color:red;
+}
+article {
+  clear: both;
+}
+.images,li{
+  border-image-width: 100%;
+  border-image-width: 100%;
+}
+.information{
+    float: left;
+}
